@@ -16,7 +16,9 @@ Microsoft Visual Studio, .Net SDK
 Built With
 
 ASP .NET MVC  - The development architecture
+
 Entity framework - Object mapper for .NET
+
 MySQL - Database management system
 
 Authors
