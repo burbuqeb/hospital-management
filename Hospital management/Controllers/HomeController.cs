@@ -26,5 +26,12 @@ namespace Hospital_management.Controllers
 
             return View();
         }
+
+        public ActionResult Service()
+        {
+            ViewBag.Message = "Your services page.";
+
+            return View();
+        }
     }
 }
